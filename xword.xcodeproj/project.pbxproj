@@ -14,6 +14,9 @@
 		A574A51A223A115E002DB73E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A574A518223A115E002DB73E /* LaunchScreen.storyboard */; };
 		A574A525223A115E002DB73E /* xwordTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A574A524223A115E002DB73E /* xwordTests.swift */; };
 		A574A530223A115E002DB73E /* xwordUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A574A52F223A115E002DB73E /* xwordUITests.swift */; };
+		A598A05E2265164A009F3F33 /* crosswordCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A598A05D2265164A009F3F33 /* crosswordCell.swift */; };
+		A598A0602267867F009F3F33 /* crosswordScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A598A05F2267867F009F3F33 /* crosswordScreenViewController.swift */; };
+		A598A0622267CAE9009F3F33 /* Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = A598A0612267CAE9009F3F33 /* Word.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		A574A52B223A115E002DB73E /* xwordUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = xwordUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A574A52F223A115E002DB73E /* xwordUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xwordUITests.swift; sourceTree = "<group>"; };
 		A574A531223A115E002DB73E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A598A05D2265164A009F3F33 /* crosswordCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = crosswordCell.swift; path = ../crosswordCell.swift; sourceTree = "<group>"; };
+		A598A05F2267867F009F3F33 /* crosswordScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = crosswordScreenViewController.swift; sourceTree = "<group>"; };
+		A598A0612267CAE9009F3F33 /* Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,9 +103,12 @@
 		A574A50E223A1159002DB73E /* xword */ = {
 			isa = PBXGroup;
 			children = (
+				A598A05D2265164A009F3F33 /* crosswordCell.swift */,
 				A574A50F223A1159002DB73E /* AppDelegate.swift */,
 				A574A511223A1159002DB73E /* ViewController.swift */,
 				A574A513223A1159002DB73E /* Main.storyboard */,
+				A598A05F2267867F009F3F33 /* crosswordScreenViewController.swift */,
+				A598A0612267CAE9009F3F33 /* Word.swift */,
 				A574A516223A115E002DB73E /* Assets.xcassets */,
 				A574A518223A115E002DB73E /* LaunchScreen.storyboard */,
 				A574A51B223A115E002DB73E /* Info.plist */,
@@ -256,8 +265,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A598A05E2265164A009F3F33 /* crosswordCell.swift in Sources */,
 				A574A512223A1159002DB73E /* ViewController.swift in Sources */,
+				A598A0622267CAE9009F3F33 /* Word.swift in Sources */,
 				A574A510223A1159002DB73E /* AppDelegate.swift in Sources */,
+				A598A0602267867F009F3F33 /* crosswordScreenViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

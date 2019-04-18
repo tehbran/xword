@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, April 17, 2019 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/16/2019 at 7:01 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, Apr 17, 2019</Title>
+    <Author>Alison Ohringer and Erik Agard</Author>
+    <CanonicalNames>
+      <Constructor>Alison Ohringer</Constructor>
+      <Constructor>Erik Agard</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/17/2019</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>16</Cols>
+    </Size>
+    <Grid>
+      <Row>ROTH.MOSSY..JAWS</Row>
+      <Row>ACRE.ANIMES.AVOW</Row>
+      <Row>STALECEREAL.MAKE</Row>
+      <Row>CADETS..ARIA.TEA</Row>
+      <Row>AGENT.BURNTTOAST</Row>
+      <Row>LOO.AEON...SORTS</Row>
+      <Row>.NFL.LAMB.PEP...</Row>
+      <Row>..FIXBREAKFAST..</Row>
+      <Row>...BRA.TGIF.YUP.</Row>
+      <Row>APNEA...ETTU.NAP</Row>
+      <Row>MEALYAPPLE.SLATE</Row>
+      <Row>IRE.SLUR..HEIFER</Row>
+      <Row>GUNN.SPOILEDMILK</Row>
+      <Row>ASAP.OINKER.ISLE</Row>
+      <Row>SEER..LEEDS.THAD</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ROTH"><![CDATA[Veronica ___, author of the best-selling &quot;Divergent&quot; series]]></Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="MOSSY"><![CDATA[Green and soft, say]]></Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Across" Ans="JAWS"><![CDATA[Movie with famous &quot;dun dun&quot; theme music]]></Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ACRE"><![CDATA[Measurement that might be a lot?]]></Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="ANIMES"><![CDATA[Some Japanese cartoons]]></Clue>
+      <Clue Row="2" Col="13" Num="17" Dir="Across" Ans="AVOW"><![CDATA[Profess]]></Clue>
+      <Clue Row="3" Col="1" Num="18" Dir="Across" Ans="STALECEREAL"><![CDATA[Menu item #1: A bowlful of Cap'n Crunch that's been on top of the fridge for four years]]></Clue>
+      <Clue Row="3" Col="13" Num="20" Dir="Across" Ans="MAKE"><![CDATA[Rhyming opposite of break]]></Clue>
+      <Clue Row="4" Col="1" Num="21" Dir="Across" Ans="CADETS"><![CDATA[Officers-to-be]]></Clue>
+      <Clue Row="4" Col="9" Num="22" Dir="Across" Ans="ARIA"><![CDATA[Opera term that's sometimes a woman's name]]></Clue>
+      <Clue Row="4" Col="14" Num="24" Dir="Across" Ans="TEA"><![CDATA[Coffee alternative]]></Clue>
+      <Clue Row="5" Col="1" Num="25" Dir="Across" Ans="AGENT"><![CDATA[Austin Powers or Jack Bauer]]></Clue>
+      <Clue Row="5" Col="7" Num="26" Dir="Across" Ans="BURNTTOAST"><![CDATA[Menu item #2: The charred remains of a slice of whole wheat]]></Clue>
+      <Clue Row="6" Col="1" Num="29" Dir="Across" Ans="LOO"><![CDATA[W.C.]]></Clue>
+      <Clue Row="6" Col="5" Num="30" Dir="Across" Ans="AEON"><![CDATA[&quot;___ Flux&quot; (1990s sci-fi series)]]></Clue>
+      <Clue Row="6" Col="12" Num="32" Dir="Across" Ans="SORTS"><![CDATA[Kinds]]></Clue>
+      <Clue Row="7" Col="2" Num="33" Dir="Across" Ans="NFL"><![CDATA[Org. whose participants wear helmets]]></Clue>
+      <Clue Row="7" Col="6" Num="35" Dir="Across" Ans="LAMB"><![CDATA[Follower of Mary]]></Clue>
+      <Clue Row="7" Col="11" Num="37" Dir="Across" Ans="PEP"><![CDATA[Zip]]></Clue>
+      <Clue Row="8" Col="3" Num="38" Dir="Across" Ans="FIXBREAKFAST"><![CDATA[Plea concerning the menu in 18-, 26-, 53- and 64-Across?]]></Clue>
+      <Clue Row="9" Col="4" Num="42" Dir="Across" Ans="BRA"><![CDATA[Chest coverer]]></Clue>
+      <Clue Row="9" Col="8" Num="43" Dir="Across" Ans="TGIF"><![CDATA[&quot;Eight more hours and I'm outta here!&quot;]]></Clue>
+      <Clue Row="9" Col="13" Num="44" Dir="Across" Ans="YUP"><![CDATA[&quot;Ya got that right&quot;]]></Clue>
+      <Clue Row="10" Col="1" Num="46" Dir="Across" Ans="APNEA"><![CDATA[Subject of a sleep lab study]]></Clue>
+      <Clue Row="10" Col="9" Num="49" Dir="Across" Ans="ETTU"><![CDATA[Words to a backstabber]]></Clue>
+      <Clue Row="10" Col="14" Num="51" Dir="Across" Ans="NAP"><![CDATA[Go out for a bit]]></Clue>
+      <Clue Row="11" Col="1" Num="53" Dir="Across" Ans="MEALYAPPLE"><![CDATA[Menu item #3: A Red Delicious, assuming you find sawdust delicious]]></Clue>
+      <Clue Row="11" Col="12" Num="57" Dir="Across" Ans="SLATE"><![CDATA[Writing surface]]></Clue>
+      <Clue Row="12" Col="1" Num="59" Dir="Across" Ans="IRE"><![CDATA[Wrath]]></Clue>
+      <Clue Row="12" Col="5" Num="60" Dir="Across" Ans="SLUR"><![CDATA[Fail to enunciate]]></Clue>
+      <Clue Row="12" Col="11" Num="61" Dir="Across" Ans="HEIFER"><![CDATA[Cow sans calf]]></Clue>
+      <Clue Row="13" Col="1" Num="62" Dir="Across" Ans="GUNN"><![CDATA[Ben ___, pirate in &quot;Treasure Island&quot;]]></Clue>
+      <Clue Row="13" Col="6" Num="64" Dir="Across" Ans="SPOILEDMILK"><![CDATA[Menu item #4: Something to pour in coffee for a sour surprise]]></Clue>
+      <Clue Row="14" Col="1" Num="67" Dir="Across" Ans="ASAP"><![CDATA[&quot;Stat!&quot;]]></Clue>
+      <Clue Row="14" Col="6" Num="68" Dir="Across" Ans="OINKER"><![CDATA[Pig, cutely]]></Clue>
+      <Clue Row="14" Col="13" Num="69" Dir="Across" Ans="ISLE"><![CDATA[Dot on an ocean map]]></Clue>
+      <Clue Row="15" Col="1" Num="70" Dir="Across" Ans="SEER"><![CDATA[Future-gazer]]></Clue>
+      <Clue Row="15" Col="7" Num="71" Dir="Across" Ans="LEEDS"><![CDATA[City in West Yorkshire]]></Clue>
+      <Clue Row="15" Col="13" Num="72" Dir="Across" Ans="THAD"><![CDATA[N.B.A.'s Young, familiarly]]></Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="RASCAL"><![CDATA[Troublemaker]]></Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="OCTAGON"><![CDATA[Stop sign shape]]></Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="TRADEOFF"><![CDATA[Sacrifice of square footage for location, e.g.]]></Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="HELEN"><![CDATA[___ Keller, first deaf and blind person to earn a Bachelor of Arts]]></Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="MACS"><![CDATA[PC alternatives]]></Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="ONE"><![CDATA[&quot;He still the ___&quot; (lyric in Beyoncé's &quot;Countdown&quot;)]]></Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="SIR"><![CDATA[Word before and after yes, in the military]]></Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="SMEAR"><![CDATA[Below-the-belt campaign tactic]]></Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="YEARN"><![CDATA[Long (for)]]></Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="JAM"><![CDATA[Song one loves, in modern slang]]></Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="AVATAR"><![CDATA[Image next to a user name]]></Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="WOKEST"><![CDATA[Most socially conscious]]></Clue>
+      <Clue Row="1" Col="16" Num="13" Dir="Down" Ans="SWEATS"><![CDATA[Comfy pants]]></Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Down" Ans="SLIT"><![CDATA[Not much light can get through it]]></Clue>
+      <Clue Row="3" Col="5" Num="19" Dir="Down" Ans="ETTA"><![CDATA[Grammy-winning James]]></Clue>
+      <Clue Row="4" Col="12" Num="23" Dir="Down" Ans="ATSEA"><![CDATA[Bewildered]]></Clue>
+      <Clue Row="5" Col="7" Num="26" Dir="Down" Ans="BOAR"><![CDATA[Wild hog]]></Clue>
+      <Clue Row="5" Col="8" Num="27" Dir="Down" Ans="UNMET"><![CDATA[Not satisfied, as expectations]]></Clue>
+      <Clue Row="5" Col="13" Num="28" Dir="Down" Ans="OOPSY"><![CDATA[&quot;___-daisy!&quot;]]></Clue>
+      <Clue Row="6" Col="6" Num="31" Dir="Down" Ans="ELBA"><![CDATA[Actor Idris]]></Clue>
+      <Clue Row="7" Col="4" Num="34" Dir="Down" Ans="LIBEL"><![CDATA[Media lawyer's specialty]]></Clue>
+      <Clue Row="7" Col="9" Num="36" Dir="Down" Ans="BAGEL"><![CDATA[Roll with a hole]]></Clue>
+      <Clue Row="7" Col="11" Num="37" Dir="Down" Ans="PFFT"><![CDATA[Sound of failure]]></Clue>
+      <Clue Row="8" Col="5" Num="39" Dir="Down" Ans="XRAYS"><![CDATA[Broken bone revealers]]></Clue>
+      <Clue Row="8" Col="10" Num="40" Dir="Down" Ans="KITE"><![CDATA[Toy for a windy day]]></Clue>
+      <Clue Row="8" Col="14" Num="41" Dir="Down" Ans="TUNAFISH"><![CDATA[Ingredient in a melt]]></Clue>
+      <Clue Row="9" Col="15" Num="45" Dir="Down" Ans="PATELLA"><![CDATA[Kneecap]]></Clue>
+      <Clue Row="10" Col="1" Num="46" Dir="Down" Ans="AMIGAS"><![CDATA[Close chicas]]></Clue>
+      <Clue Row="10" Col="2" Num="47" Dir="Down" Ans="PERUSE"><![CDATA[Read over]]></Clue>
+      <Clue Row="10" Col="3" Num="48" Dir="Down" Ans="NAENAE"><![CDATA[Dance done to the 2015 hit &quot;Watch Me&quot;]]></Clue>
+      <Clue Row="10" Col="12" Num="50" Dir="Down" Ans="USED"><![CDATA[Not new]]></Clue>
+      <Clue Row="10" Col="16" Num="52" Dir="Down" Ans="PERKED"><![CDATA[Started listening, with &quot;up&quot;]]></Clue>
+      <Clue Row="11" Col="6" Num="54" Dir="Down" Ans="ALSO"><![CDATA[As well]]></Clue>
+      <Clue Row="11" Col="7" Num="55" Dir="Down" Ans="PUPIL"><![CDATA[It gets bigger in the dark]]></Clue>
+      <Clue Row="11" Col="8" Num="56" Dir="Down" Ans="PRONE"><![CDATA[Accident-___]]></Clue>
+      <Clue Row="11" Col="13" Num="58" Dir="Down" Ans="LIMIT"><![CDATA[The sky, perhaps]]></Clue>
+      <Clue Row="12" Col="11" Num="61" Dir="Down" Ans="HERS"><![CDATA[That woman's]]></Clue>
+      <Clue Row="13" Col="4" Num="63" Dir="Down" Ans="NPR"><![CDATA[Broadcaster of &quot;Wait Wait ... Don't Tell Me!&quot;]]></Clue>
+      <Clue Row="13" Col="9" Num="65" Dir="Down" Ans="IKE"><![CDATA[1950s prez]]></Clue>
+      <Clue Row="13" Col="10" Num="66" Dir="Down" Ans="LED"><![CDATA[Guided]]></Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>FIX BREAKFAST = make breakfast &hellip; or repair it?</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Bagel" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%2Athis%2A_is_a_bagel.jpg/460px-%2Athis%2A_is_a_bagel.jpg" style="border:1px solid lightgray; float:right; height:165px; margin:6px 0 6px 12px; width:220px" title="FOR THE LOVE OF GOD SOMEONE PLEASE TELL ME HOW BAGEL IS RELATED TO THE THEME ALREADY!!!" /></a></p>
+
+<p>In my household, it&#39;s usually both. Jake (age 2) has a thing now where he rips a piece of food apart and then gets upset when it can&#39;t be rejoined.</p>
+
+<p>This is my life.</p>
+
+<p>Fun fact: in Canada, FIX BREAKFAST isn&#39;t a thing, as much as &quot;make breakfast.&quot; Hadn&#39;t occurred to me until our resident Canadian Jim said, &quot;Eh?&quot;</p>
+
+<p>There might be an additional layer of cleverness that I&#39;m missing here, but I did appreciate that Alison and Erik found four staple(ish) breakfast foods that have an in-the-language phrase associated with them, all meaning &quot;food that&#39;s been marred in some way.&quot;</p>
+
+<p>(Do people eat healthy APPLEs for breakfast? Fie on you, says this unabashed BAGEL-eater. What was that doing in the middle of the puzzle, BTW? That makes me feel even more strongly like I am missing something I&#39;m not smart enough to grok.)</p>
+
+<p>Such beautiful gridwork. Five themers, with one of them a central 11, usually is a recipe for crossword glue. Not today. I didn&#39;t run into a single dab, and what with OCTAGON, TUNA FISH, PATELLA, AVATAR, and WOKEST (what the kids say these days about being socially aware, as it would seem), the product is both clean and colorful.</p>
+
+<p>Note the careful use of cheater squares, before NFL and after ALSO. I wish more constructors would deploy these types of black squares. Rich Norris over at the LAT calls them &quot;helper&quot; squares &ndash; that&#39;s so on point. The NW region is at least three times easier to fill (with color and cleanliness) with the assistance of that one extra black square.</p>
+
+<p>Fantastic craftsmanship, but the theme didn&#39;t do that much for me. I&#39;m going to keep thinking about it &ndash; that BAGEL in the center has to be purposeful.</p>
+
+<p>(No? Just the best available fill? Bah.)</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p><strong>ALISON AND ERIK: </strong>This puzzle blossomed from an email exchange riffing on <a href="https://www.xwordinfo.com/Crossword?date=3/14/2018&amp;g=24&amp;d=A">a previous NYT puzzle</a> that had HOT OATMEAL as a theme answer (&quot;What&#39;s the alternative? Cold oatmeal?!&quot;). The realization that LUKEWARM OATMEAL (15) is the perfect length to span a weekday grid sent us down a rabbit hole of, with increasing semi-seriousness, suggesting suboptimal foods for theme answers. When we thought of the phrase FIX BREAKFAST and its dual meaning, we knew we had something legit.</p>
+
+<p>We had a lot of fun creating this puzzle (and a fair amount of horror upon realizing that some common breakfast foods do not Google well &mdash; please just take our word for it), and we hope you have just as much fun solving it.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

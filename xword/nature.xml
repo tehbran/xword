@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<Puzzles Version="1.0">
+	<Puzzle>
+	<Title>Nature - Vietnamese</Title>
+	<Size>
+		<Rows>13</Rows>
+		<Cols>13</Cols>
+	</Size>
+	<Grid>
+		<Row>.............</Row>
+		<Row>.............</Row>
+		<Row>.....K..G....</Row>
+		<Row>..TROI.CAT.H.</Row>
+		<Row>..A..E.H...O.</Row>
+		<Row>MEO..NUOC.CAY</Row>
+		<Row>........HEO..</Row>
+		<Row>......R.I.MAY</Row>
+		<Row>.....BUOM....</Row>
+		<Row>......A......</Row>
+		<Row>.............</Row>
+		<Row>.............</Row>
+        <Row>.............</Row>
+	</Grid>
+	<Clues>
+		<Clue Row="3" Col="6" Num="1" Dir="Down" Ans="KIEN">Ant</Clue>
+		<Clue Row="3" Col="9" Num="2" Dir="Down" Ans="GA">Chicken</Clue>
+		<Clue Row="4" Col="3" Num="3" Dir="Down" Ans="TAO">Apple</Clue>
+		<Clue Row="4" Col="3" Num="3" Dir="Across" Ans="TROI">Sky</Clue>
+		<Clue Row="4" Col="8" Num="4" Dir="Down" Ans="CHO">Dog</Clue>
+		<Clue Row="4" Col="8" Num="4" Dir="Across" Ans="CAT">Sand</Clue>
+		<Clue Row="4" Col="12" Num="5" Dir="Down" Ans="HOA">Flower</Clue>
+		<Clue Row="6" Col="1" Num="6" Dir="Across" Ans="MEO">Cat</Clue>
+		<Clue Row="6" Col="6" Num="7" Dir="Across" Ans="NUOC">Water</Clue>
+		<Clue Row="6" Col="9" Num="8" Dir="Down" Ans="CHIM">Bird</Clue>
+		<Clue Row="6" Col="11" Num="9" Dir="Down" Ans="COM">Rice</Clue>
+		<Clue Row="6" Col="11" Num="9" Dir="Across" Ans="CAY">Tree, Plant</Clue>
+		<Clue Row="7" Col="9" Num="10" Dir="Across" Ans="HEO">Pig</Clue>
+		<Clue Row="8" Col="7" Num="11" Dir="Down" Ans="RUA">Turtle</Clue>
+		<Clue Row="8" Col="11" Num="12" Dir="Across" Ans="MAY">Cloud</Clue>
+		<Clue Row="9" Col="6" Num="13" Dir="Across" Ans="BUOM">Butterfly</Clue>
+	</Clues>
+	</Puzzle>
+</Puzzles>

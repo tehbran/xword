@@ -25,6 +25,56 @@
             </objects>
             <point key="canvasLocation" x="133.59999999999999" y="133.5832083958021"/>
         </scene>
+        <!--Bcrossword View-->
+        <scene sceneID="T8s-gV-6fj">
+            <objects>
+                <viewController id="zP0-y5-As8" customClass="IBcrosswordView" customModule="xword" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="fgL-eD-rkL">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="cC5-67-SNy" customClass="crosswordGrid" customModule="xword" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="33" width="375" height="128"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="Xiy-Q4-mfK">
+                                    <size key="itemSize" width="50" height="50"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <cells>
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="cJx-6z-Iam" customClass="crosswordCell" customModule="xword" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO">
+                                            <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                        </view>
+                                    </collectionViewCell>
+                                </cells>
+                            </collectionView>
+                            <view contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ceg-ci-Mxw">
+                                <rect key="frame" x="0.0" y="169" width="375" height="128"/>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="hYP-3m-V1k" firstAttribute="trailing" secondItem="ceg-ci-Mxw" secondAttribute="trailing" id="1gD-YL-dyz"/>
+                            <constraint firstItem="ceg-ci-Mxw" firstAttribute="leading" secondItem="hYP-3m-V1k" secondAttribute="leading" id="8bq-1b-vEC"/>
+                            <constraint firstItem="ceg-ci-Mxw" firstAttribute="top" secondItem="cC5-67-SNy" secondAttribute="top" id="MOl-CV-emi"/>
+                            <constraint firstItem="cC5-67-SNy" firstAttribute="leading" secondItem="hYP-3m-V1k" secondAttribute="leading" id="O2I-Wq-16n"/>
+                            <constraint firstItem="cC5-67-SNy" firstAttribute="top" secondItem="hYP-3m-V1k" secondAttribute="top" id="Zya-oV-mb1"/>
+                            <constraint firstItem="ceg-ci-Mxw" firstAttribute="top" secondItem="cC5-67-SNy" secondAttribute="bottom" constant="8" id="lli-8o-YYj"/>
+                            <constraint firstItem="hYP-3m-V1k" firstAttribute="trailing" secondItem="cC5-67-SNy" secondAttribute="trailing" id="z7j-xb-tfB"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="hYP-3m-V1k"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="1Ut-0x-cke" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="202" y="827"/>
+        </scene>
         <!--View Controller-->
         <scene sceneID="4iz-0m-NIk">
             <objects>

@@ -17,6 +17,7 @@
 		A598A05E2265164A009F3F33 /* crosswordCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A598A05D2265164A009F3F33 /* crosswordCell.swift */; };
 		A598A0602267867F009F3F33 /* crosswordScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A598A05F2267867F009F3F33 /* crosswordScreenViewController.swift */; };
 		A598A0622267CAE9009F3F33 /* Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = A598A0612267CAE9009F3F33 /* Word.swift */; };
+		A5A89108226D7A18002D26D2 /* nature.xml in Resources */ = {isa = PBXBuildFile; fileRef = A5A89107226D7A17002D26D2 /* nature.xml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		A598A05D2265164A009F3F33 /* crosswordCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = crosswordCell.swift; path = ../crosswordCell.swift; sourceTree = "<group>"; };
 		A598A05F2267867F009F3F33 /* crosswordScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = crosswordScreenViewController.swift; sourceTree = "<group>"; };
 		A598A0612267CAE9009F3F33 /* Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word.swift; sourceTree = "<group>"; };
+		A5A89107226D7A17002D26D2 /* nature.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = nature.xml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 		A574A50E223A1159002DB73E /* xword */ = {
 			isa = PBXGroup;
 			children = (
+				A5A89107226D7A17002D26D2 /* nature.xml */,
 				A598A05D2265164A009F3F33 /* crosswordCell.swift */,
 				A574A50F223A1159002DB73E /* AppDelegate.swift */,
 				A574A511223A1159002DB73E /* ViewController.swift */,
@@ -238,6 +241,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5A89108226D7A18002D26D2 /* nature.xml in Resources */,
 				A574A51A223A115E002DB73E /* LaunchScreen.storyboard in Resources */,
 				A574A517223A115E002DB73E /* Assets.xcassets in Resources */,
 				A574A515223A1159002DB73E /* Main.storyboard in Resources */,

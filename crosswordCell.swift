@@ -51,6 +51,7 @@ class crosswordCell: UICollectionViewCell, UITextFieldDelegate {
     }
     
     func blankCell(){
+        entry.text = "."
         backgroundColor = UIColor.black
         entry.isHidden = true
     }

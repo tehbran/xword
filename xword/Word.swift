@@ -11,6 +11,8 @@ struct Word: Hashable{
     var clue: String!
     var number: String!
     var orientation: String!
+    var row: Int!
+    var col: Int!
 
     func hash(into hasher: inout Hasher){
         hasher.combine(word)
